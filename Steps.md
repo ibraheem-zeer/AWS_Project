@@ -37,3 +37,4 @@ sudo ssh -i ~/.ssh/ibraZeer.pem ubuntu@35.177.76.197
 ![RS](https://github.com/IbrahimZeer/AWS_Project/assets/137792310/242f45dd-ed4e-4bb4-b83d-260385db6651)
 
 but it doesn’t work because my ubuntu is crashed
+!!!!!!!!!
