@@ -3,8 +3,7 @@ this project to upload Book_management on AWS
 
 # Steps in AWS
 ## Create Security Group
-![Uploading SG.png…]()
-
+![SG](https://github.com/IbrahimZeer/AWS_Project/assets/137792310/7506ac95-733f-4c91-8471-e609b99731b7)
 
 ## Create  Lunch Template 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cbb69911-3ef7-4e65-a6f7-720a7acf74c2/Untitled.png)
