@@ -5,26 +5,27 @@ this project to upload Book_management on AWS
 ## Create Security Group
 ![SG](https://github.com/IbrahimZeer/AWS_Project/assets/137792310/7506ac95-733f-4c91-8471-e609b99731b7)
 
-## Create  Lunch Template 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cbb69911-3ef7-4e65-a6f7-720a7acf74c2/Untitled.png)
+## Create Lunch Template 
+![LT1](https://github.com/IbrahimZeer/AWS_Project/assets/137792310/35afc598-f5a3-46b6-a9e3-7bb0b1a4aae2)
 
 **after create Template , now we wont to create instance from our template on this steps**
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/56345f77-1c3b-478b-8e38-625bd5685c92/Untitled.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31798da1-ade8-4ea6-8592-eb719848142a/Untitled.png)
+![LT2](https://github.com/IbrahimZeer/AWS_Project/assets/137792310/48a85b4d-e69d-4d16-8d69-e6a0595ae7f4)
+
+![LT3](https://github.com/IbrahimZeer/AWS_Project/assets/137792310/eedfc8be-b8c6-4cdb-b4aa-1a935b112e9e)
 
 **my instances created by Template**
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c09e08c-8055-4c83-bee8-658540497211/Untitled.png)
+![LT4](https://github.com/IbrahimZeer/AWS_Project/assets/137792310/8573ce7c-0feb-448b-a1d1-5e9c0d625344)
 
 ## Create Load Balancer
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ac475a80-5f5a-4370-b1fb-018fd27a8aaa/Untitled.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/deef3dc3-1b63-4c85-9599-7dc925732583/Untitled.png)
+![LB1](https://github.com/IbrahimZeer/AWS_Project/assets/137792310/d4acc9d5-16f5-4c86-9f9c-e28eb2f3ecd6)
+![LB2](https://github.com/IbrahimZeer/AWS_Project/assets/137792310/0440a29f-d413-4d46-bb2a-0c34c7dd97af)
 
 ## Create Target Group
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8783a08a-2180-4439-b55c-b76faff8b8f0/Untitled.png)
+![TG](https://github.com/IbrahimZeer/AWS_Project/assets/137792310/5d5317bc-6205-40b8-9adc-0c0e3be0ec37)
 
 ## Create Auto Scaling Group
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5978fca7-69d0-4ddb-b6a8-e65507ba70fa/Untitled.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9fa1b48d-83f4-4972-beaf-a0fe5e1aee89/Untitled.png)
+![ASG1](https://github.com/IbrahimZeer/AWS_Project/assets/137792310/81684460-e984-426b-8bf6-36abfd95d24b)
+![ASG2](https://github.com/IbrahimZeer/AWS_Project/assets/137792310/d5898b4d-6427-48f9-9437-7ef488ddb171)
 
 ---
 
@@ -33,10 +34,6 @@ we use this command to Running the server
 ```
 sudo ssh -i ~/.ssh/ibraZeer.pem ubuntu@35.177.76.197
 ```
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2f4965b-7f7e-4f7f-b2f7-afc7df9dbb79/Untitled.png)
+![RS](https://github.com/IbrahimZeer/AWS_Project/assets/137792310/242f45dd-ed4e-4bb4-b83d-260385db6651)
+
 but it doesn’t work because my ubuntu is crashed
-
-![a](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2f4965b-7f7e-4f7f-b2f7-afc7df9dbb79/Untitled.png)
-
-
-<img src="[image.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2f4965b-7f7e-4f7f-b2f7-afc7df9dbb79/Untitled.png)https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2f4965b-7f7e-4f7f-b2f7-afc7df9dbb79/Untitled.png" alt="Alt Text" width="300" height="200" />
