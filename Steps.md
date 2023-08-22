@@ -35,3 +35,6 @@ sudo ssh -i ~/.ssh/ibraZeer.pem ubuntu@35.177.76.197
 ```
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2f4965b-7f7e-4f7f-b2f7-afc7df9dbb79/Untitled.png)
 but it doesn’t work because my ubuntu is crashed
+
+
+![Uploading image.png…]()
